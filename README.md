@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neeraj Meena
-- 👀 I’m interested in development. 
+- 👀 I’m interested in Website development. 
 - 🌱 I’m currently learning competitive programming.
 - 📫 Keep in touch with me on Linkedin
 
