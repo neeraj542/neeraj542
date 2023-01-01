@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently pursuing Master's.<br>I'm looking for a part-time work opportunity<br>I'm Currently learning about OpenAI and chatGPT<br>I'm a frontend website developer and content writer.<br>
+I'm Currently pursuing Master's in Computer Applications.<br>I'm looking for a part-time work opportunity<br>I'm Currently learning about OpenAI and chatGPT<br>I'm a frontend website developer and content writer.<br>
 
 
 ## 🌐 Socials:
