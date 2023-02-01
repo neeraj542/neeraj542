@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm Currently pursuing Master's.<br>I'm looking for a part-time work opportunity<br>I'm Currently learning about OpenAI and chatGPT<br>
-
+I'm Currently pursuing Master's.<br>I'm looking for a part-time work opportunity<br>I'm Currently learning about OpenAI and chatGPT<br><br>
+---
 [![](https://visitcount.itsvg.in/api?id=neeraj542&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
@@ -21,7 +21,5 @@ I'm Currently pursuing Master's.<br>I'm looking for a part-time work opportunity
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
