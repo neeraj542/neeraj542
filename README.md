@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently pursuing MCA.<br>I'm looking for a part-time work opportunity<br>I'm Currently learning about OpenAI and chatGPT<br><br>
+<ul><li>I'm Currently pursuing MCA.</li><br><li>I'm looking for a part-time work opportunity</li><br><li>I'm Currently learning about OpenAI and chatGPT</li></ul><br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=neeraj542&icon=0&color=0)](https://visitcount.itsvg.in)
 
