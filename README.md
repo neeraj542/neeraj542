@@ -43,7 +43,10 @@
 
 <p align="center">
 <a href="https://github.com/neeraj542">
-<img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=react" alt="neeraj542" />
+<!-- <img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=react" alt="neeraj542" /> -->
+<img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=radical&hide_border=false" alt="neeraj542" />
+  
+  
 <br />
 <img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neeraj542&layout=compact&langs_count=8&theme=algolia" alt="neeraj542" />
 <img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neeraj542&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="neeraj542" />
