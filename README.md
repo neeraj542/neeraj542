@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Web+Developer;Open+Source+Contributor">
 </div >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasantgupta52&label=Profile%20views&color=1A77B1&style=flat" alt="prasantgupta52" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj542&label=Profile%20views&color=1A77B1&style=flat" alt="neeraj542" /> </p>
 
 <!--changes starting from here  -->
 # 💫 About Me:
