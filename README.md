@@ -7,10 +7,19 @@
 
 <!--changes starting from here  -->
 # 💫 About Me:
-<strong><ul><li>I'm Currently pursuing MCA.</li><br>
-  <li>I'm looking for a part-time work opportunity</li><br>
-  <li>I'm Currently learning about OpenAI and chatGPT</li>
-</ul><br></strong>
+🔭 I’m currently learning **Data Structures & Algorithms**
+
+🌱 I’m currently Exploring **MERN Stack Web Development**
+
+👨‍💻 All of my projects are available at **[neeraj542](https://github.com/neeraj542)**
+
+📫 How to reach me **[mneeraj2133@gmail.com](mailto:mneeraj2133@gmail.com)**
+
+<!-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)** -->
+
+😄 Pronouns: **He/His**
+
+<!-- ⚡ Fun fact **hui hui** -->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/czuQ69pn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theneeraj542) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamneeraj_542) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-neeraj-2019) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Neeraj-Meena-329) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@neerajmeena8136) 
@@ -29,7 +38,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=neeraj542&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
