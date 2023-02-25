@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Web+Developer;Open+Source+Contributor">
 </div >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj542&label=Profile%20views&color=1A77B1&style=flat" alt="neeraj542" /> </p>
+<img src="./assets/undraw_illustrations.gif" width=400 align=right />
+
 
 <!--changes starting from here  -->
 # 💫 About Me:
