@@ -42,7 +42,7 @@
 
 ## <img src="./assets/github.png" height=25/> Github Stats
 
-<!-- <p align="center"> -->
+<p align="center">
 <a href="https://github.com/neeraj542">
 <!-- <img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=react" alt="neeraj542" /> -->
 <img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=radical&hide_border=false" alt="neeraj542" />
