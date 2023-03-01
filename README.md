@@ -20,7 +20,7 @@
 
 <!-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)** -->
 
-😄 Pronouns: **He/His**
+😄 Pronouns: **He/His** 
 
 <!-- ⚡ Fun fact **hui hui** -->
 
