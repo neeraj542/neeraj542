@@ -2,7 +2,7 @@
 <h2 align="center">MCA Student @ NIT Bhopal, Madhya Pradesh</h2>
 <div align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Web+Developer;Open+Source+Contributor">
-</div>
+</div> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj542&label=Profile%20views&color=1A77B1&style=flat" alt="neeraj542" /> </p>
 <img src="./assets/undraw_illustrations.gif" width=400 align=right />
 <p align="left"> <a href="https://www.linkedin.com/in/kumar-neeraj-2019/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Neeraj Meena" width="150" height="30" /></a> </p>
@@ -57,7 +57,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<!-- ### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme 
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
