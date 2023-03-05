@@ -12,7 +12,7 @@
 🔭 I’m currently learning **Data Structures & Algorithms**
 
 🌱 I’m currently Exploring **MERN Stack Web Development** 
-
+ 
 👨‍💻 All of my projects are available at **[neeraj542](https://github.com/neeraj542)**
 
 📫 How to reach me **[mneeraj2133@gmail.com](mailto:mneeraj2133@gmail.com)**
