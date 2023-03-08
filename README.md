@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm NEERAJ MEENA</h1>
-<h2 align="center">MCA Student @ NIT Bhopal, Madhya Pradesh</h2>   
+<h2 align="center">MCA Student @ NIT Bhopal, Madhya Pradesh</h2>    
 <div align="center">      
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Web+Developer;Open+Source+Contributor">
 </div> 
