@@ -16,7 +16,7 @@
 👨‍💻 All of my projects are available at **[neeraj542](https://github.com/neeraj542)**
  
 📫 How to reach me **[mneeraj2133@gmail.com](mailto:mneeraj2133@gmail.com)** 
-
+ 
 <!-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)** -->
  
 😄 Pronouns: **He/His**      
