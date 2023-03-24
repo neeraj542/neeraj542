@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm NEERAJ MEENA</h1> 
 <h2 align="center">MCA Student @ NIT Bhopal, Madhya Pradesh</h2>           
 <div align="center">            
-<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Web+Developer;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Full+Stack+Developer;Open+Source+Contributor">
 </div>   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj542&label=Profile%20views&color=1A77B1&style=flat" alt="neeraj542" /> </p>
 <img src="./assets/undraw_illustrations.gif" width=400 align=right />
