@@ -62,7 +62,7 @@
  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- 
 ## <img src="./assets/Hacktober_Fest.jpg" height=20 /> Hacktober Fest 2022
 
-[![@neeraj542's Holopin board](https://holopin.me/neeraj542)](https://holopin.io/@neeraj542)
+[![@neeraj542's Holopin board](https://holopin.me/neeraj542)](https://holopin.io/@neeraj542) -->
