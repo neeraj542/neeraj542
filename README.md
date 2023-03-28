@@ -2,7 +2,7 @@
 <h2 align="center">MCA Student @ NIT Bhopal, Madhya Pradesh</h2>            
 <div align="center">            
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Full+Stack+Developer;Open+Source+Contributor">
- <img align="right" alt="coding" width="400px" style="margin:20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="right" alt="coding" width="400px" style="margin:20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 </div>   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj542&label=Profile%20views&color=1A77B1&style=flat" alt="neeraj542" /> </p>
 <img src="./assets/undraw_illustrations.gif" width=400 align=right />
