@@ -10,7 +10,7 @@
  
 <!--changes starting from here -->   
 # 💫 About Me:     
-🔭 I’m currently learning **Data Structures & Algorithms**
+🔭 I’m currently learning **Data Structures & Algorithms** 
  
 🌱 I’m currently Exploring **MERN Stack Web Development**   
  
