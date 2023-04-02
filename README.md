@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Full+Stack+Developer;Open+Source+Contributor">
  <img align="right" alt="coding" width="400px" style="margin:20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 </div>   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj542&label=Profile%20views&color=1A77B1&style=flat" alt="neeraj542" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj542&label=Profile%20views&color=1A77B1&style=flat" alt="neeraj542" /> </p> 
 <img src="./assets/undraw_illustrations.gif" width=400 align=right /> 
 <p align="left"> <a href="https://www.linkedin.com/in/kumar-neeraj-2019/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Neeraj Meena" width="150" height="30" /></a> </p>   
  
