@@ -5,7 +5,7 @@
  <img align="right" alt="coding" width="400px" style="margin:20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 </div>     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj542&label=Profile%20views&color=1A77B1&style=flat" alt="neeraj542" /> </p>   
-<img src="./assets/undraw_illustrations.gif" width=400 align=right /> 
+<!-- <img src="./assets/undraw_illustrations.gif" width=400 align=right />  -->
 <!-- <p align="left"> <a href="https://www.linkedin.com/in/kumar-neeraj-2019/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Neeraj Meena" width="150" height="30" /></a> </p>    -->
  
 <!--changes starting from here -->   
@@ -26,12 +26,10 @@
   
 
 ## 🤝 Connect with Me:
-<a href="https://www.linkedin.com/in/anshul-wadhwa/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/linkedin.png" alt="Anshul Wadhwa | LinkedIn" width=40px;/>
+<a href="https://www.linkedin.com/in/kumar-neeraj-2019/"><img align="left" src="https://github.com/neeraj542/neeraj542/blob/main/Images/linkedin.png" alt="Neeraj Meena | LinkedIn" width=40px;/>
 </a>
-<a href="https://www.twitter.com/Anshul_439/"><img align="left" src="https://github.com/Anshul439/Anshul439/blob/main/Images/twitter.png" alt="Anshul Wadhwa | Twitter" width="40px"/>
+<a href="https://www.twitter.com/MR_NeerajMeena/"><img align="left" src="https://github.com/neeraj542/neeraj542/blob/main/Images/twitter.png" alt="Neeraj Meena | Twitter" width="40px"/>
 </a>
-
-<br>
 <br>
 <br>
 
@@ -40,17 +38,25 @@
 ## 🛠️ Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,nextjs,docker,aws,html,css,bootstrap,tailwind,jquery,java,firebase,git,github"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,nextjs,docker,aws,html,css,bootstrap,tailwind,java,firebase,git,github"/>
   </a>
 </p>
 </div>
 
 <br>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neeraj542&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📈 GitHub Stats:
+<div style="display: flex;">
+    <div style="margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj542&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=neeraj542&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
+    </div>
+</div>
+ <br>
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neeraj542&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 <!-- ## <img src="https://img.icons8.com/sf-black/64/FD7E14/github.png"/> 1Github Stats  -->
- [![neeraj542's GitHub | Stats](https://stats.quine.sh/neeraj542/github?theme=light)](https://quine.sh)
 <!-- <p align="center">
 <a href="https://github.com/neeraj542">
 <img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=react" alt="neeraj542" />
@@ -64,10 +70,6 @@
 </a>
 </p> -->
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 <!-- ### 😂 Random Dev Meme 
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
  
