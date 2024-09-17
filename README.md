@@ -44,19 +44,11 @@
 </div>
 
 <br>
-## 📈 GitHub Stats:
-<div style="display: flex;">
-    <div style="margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj542&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=neeraj542&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
-    </div>
-</div>
- <br>
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neeraj542&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
-<!-- ## <img src="https://img.icons8.com/sf-black/64/FD7E14/github.png"/> 1Github Stats  -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neeraj542&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+
+## <img src="https://img.icons8.com/sf-black/64/FD7E14/github.png"/> 1Github Stats 
 <!-- <p align="center">
 <a href="https://github.com/neeraj542">
 <img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=react" alt="neeraj542" />
