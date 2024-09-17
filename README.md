@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<div id="badges">
+
 
 ## 🛠️ Languages and Tools:
 <p>
