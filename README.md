@@ -10,9 +10,7 @@
  
 <!--changes starting from here -->   
 # 💫 About Me:      
-🔭 I’m currently learning **Data Structures & Algorithms** 
- 
-🌱 I’m currently Exploring **MERN Stack Web Development**    
+I am a passionate full-stack developer and DevOps Enthusiastic📍  
  
 👨‍💻 All of my projects are available at **[neeraj542 @devpost](https://devpost.com/mneeraj2133)**
   
