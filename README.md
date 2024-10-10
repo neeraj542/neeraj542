@@ -16,9 +16,10 @@
  
 <!-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)** -->
  
- **Proof of Work**
- **[neeraj542 @devpost](https://devpost.com/mneeraj2133)**
   
+  
+ **⚡ Proof of Work**
+ **[neeraj542 @devpost](https://devpost.com/mneeraj2133)**
 <!-- ⚡ Fun fact **hui hui** -->  
   
 
