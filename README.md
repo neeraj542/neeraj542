@@ -10,15 +10,14 @@
  
 <!--changes starting from here -->   
 # 💫 About Me:      
-I am a passionate full-stack developer and DevOps Enthusiastic📍  
- 
-👨‍💻 All of my projects are available at **[neeraj542 @devpost](https://devpost.com/mneeraj2133)**
+👨‍💻 I am a passionate full-stack developer and DevOps Enthusiastic📍  
   
 📫 How to reach me **[mneeraj2133@gmail.com](mailto:mneeraj2133@gmail.com)** 
  
 <!-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)** -->
  
-😄 Pronouns: **He/His**        
+ ****Proof of Work** ** 
+ **[neeraj542 @devpost](https://devpost.com/mneeraj2133)**
   
 <!-- ⚡ Fun fact **hui hui** -->  
   
