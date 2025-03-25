@@ -41,10 +41,10 @@
 </p>
 </div>
 
-<br>
+<be>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neeraj542&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+<!-- 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neeraj542&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 <!-- <img src="https://img.icons8.com/sf-black/64/FD7E14/github.png"> 1Github Stats </img> -->
 <!-- <p align="center">
