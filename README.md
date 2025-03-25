@@ -10,7 +10,7 @@
  
 <!--changes starting from here -->   
 # 💫 About Me:      
-👨‍💻 I am a passionate full-stack developer and DevOps Enthusiastic📍  
+👨‍💻 I am a passionate software engineer, who loves to build scalable and user-centric solutions📍  
   
 📫 How to reach me **[mneeraj2133@gmail.com](mailto:mneeraj2133@gmail.com)** 
  
