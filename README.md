@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neeraj542&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
-## <img src="https://img.icons8.com/sf-black/64/FD7E14/github.png"/> 1Github Stats 
+<img src="https://img.icons8.com/sf-black/64/FD7E14/github.png"> 1Github Stats </img>
 <!-- <p align="center">
 <a href="https://github.com/neeraj542">
 <img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj542&theme=react" alt="neeraj542" />
