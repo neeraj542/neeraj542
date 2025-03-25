@@ -7,22 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj542&label=Profile%20views&color=1A77B1&style=flat" alt="neeraj542" /> </p>   
 <img src="./assets/undraw_illustrations.gif" width=400 align=right /> 
 <!-- <p align="left"> <a href="https://www.linkedin.com/in/kumar-neeraj-2019/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Neeraj Meena" width="150" height="30" /></a> </p>    -->
- 
-<!--changes starting from here -->   
-## 💫 About Me:      
-👨‍💻 I am a passionate software engineer, who loves to build scalable and user-centric solutions📍  
-  
-📫 How to reach me **[mneeraj2133@gmail.com](mailto:mneeraj2133@gmail.com)** 
- 
-<!-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)** -->
- 
-  
-  
+
  **⚡ Proof of Work**
  **[neeraj542 @devpost](https://devpost.com/mneeraj2133)**
 <!-- ⚡ Fun fact **hui hui** -->  
   
-
 ## 🤝 Connect with Me:
 <a href="https://www.linkedin.com/in/kumar-neeraj-2019/"><img align="left" src="https://github.com/neeraj542/neeraj542/blob/main/images/linkedin.png" alt="Neeraj Meena | LinkedIn" width=40px;/>
 </a>
@@ -31,8 +20,6 @@
 <br>
 <br>
 
-
-
 ## 🛠️ Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
@@ -40,8 +27,15 @@
   </a>
 </p>
 </div>
-
-<be>
+<br>
+<!--changes starting from here -->   
+## 💫 About Me:      
+👨‍💻 I am a passionate software engineer, who loves to build scalable and user-centric solutions📍  
+  
+📫 How to reach me **[mneeraj2133@gmail.com](mailto:mneeraj2133@gmail.com)** 
+ 
+<!-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)** -->
+ 
 
 <!-- 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neeraj542&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
