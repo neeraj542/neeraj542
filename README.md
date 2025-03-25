@@ -9,7 +9,7 @@
 <!-- <p align="left"> <a href="https://www.linkedin.com/in/kumar-neeraj-2019/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Neeraj Meena" width="150" height="30" /></a> </p>    -->
  
 <!--changes starting from here -->   
-# 💫 About Me:      
+## 💫 About Me:      
 👨‍💻 I am a passionate software engineer, who loves to build scalable and user-centric solutions📍  
   
 📫 How to reach me **[mneeraj2133@gmail.com](mailto:mneeraj2133@gmail.com)** 
