@@ -12,7 +12,7 @@
 ## 💫 About Me:      
 👨‍💻 I am a passionate software engineer, who loves to build scalable and user-centric solutions📍  
   
-📫 How to reach me **[mneeraj2133@gmail.com](mailto:mneeraj2133@gmail.com)** 
+📫 How to reach me **[contact51xneeraj@gmail.com](mailto:contact51xneeraj@gmail.com)** 
  
 <!-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)** -->
  
