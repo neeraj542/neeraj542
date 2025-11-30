@@ -23,7 +23,7 @@
 ## 🛠️ Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,c,react,nodejs,express,mongodb,nextjs,docker,aws,html,css,bootstrap,tailwind,java,firebase,git,github"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,c,react,nodejs,express,mongodb,nextjs,docker,aws,html,css,bootstrap,tailwind,golang,kubernetes,java,firebase,git,github"/>
   </a>
 </p>
 </div>
