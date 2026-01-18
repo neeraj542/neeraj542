@@ -31,7 +31,7 @@
 ## 🛠️ working with:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=golang,kubernetes,typescript,react,nodejs,express,mongodb,nextjs,docker,aws,html,cpp,tailwind,azure,firebase,git"/>
+   <img src="https://skillicons.dev/icons?i=golang,kubernetes,typescript,python,react,nodejs,express,mongodb,nextjs,docker,aws,tailwind,azure,firebase,git"/>
   </a>
 </p>
 </div>
